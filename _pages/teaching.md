@@ -54,7 +54,7 @@ My responsibilities:
 
 #### Data Science
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
       <img src="../assets/images/dsc80.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
@@ -181,7 +181,15 @@ My responsibilities:
     </td>
   </tr>
 
-</table>
+</table> -->
+
+
+
+
+{% for post in site.posts %}
+{{ teaching }}
+{% endfor %}
+
 
 #### Economics
 

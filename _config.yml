@@ -131,6 +131,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -258,7 +259,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: teaching
       author_profile: true
       read_time: true
       comments: true # true

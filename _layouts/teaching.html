@@ -1,0 +1,25 @@
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+    <tr>
+      <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+        <img src="{{post.image}}" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+      </td>
+      <td style="padding:2.5%;width:75%;vertical-align:middle">
+        <h3>{{post.title}}</h3>
+        <br>
+        {{post.staff}}
+        <br>
+        <em>{{post.course}} {{post.quarter}}</em>
+        <br>
+        {% if post.evaluation %}
+        <a href="{{post.evaluation}}">evaluation</a> /
+        {% endif %}
+        {% if post.website %}
+        <a href="{{post.website}}">website</a>
+        {% endif %}
+        <p></p>
+        {{ post.excerpt }}
+      </td>
+    </tr>
+
+  </table>

@@ -25,7 +25,7 @@ This page is still under construction. More unpublished/ongoing content will be 
       <h3>BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions</h3>
       <a href="https://gordonhu608.github.io/">Wenbo Hu*</a>, <a href="https://yfxu.com/">Yifan Xu*</a>, <a href="https://jerryli1019.github.io">Yi Li</a>, <strong><a href="https://weiyueli7.github.io/">Weiyue Li</a></strong>, <a href="https://zeyuan-chen.com/">Zeyuan Chen</a>, <a href="https://pages.ucsd.edu/~ztu/">Zhuowen Tu</a>
       <br>
-      <i>Under Review AAAI 2024</i>
+      <i>AAAI 2024</i>
       <br>
       <a href="https://gordonhu608.github.io/bliva/">website</a> / <a href="https://arxiv.org/abs/2308.09936">arxiv</a> / <a href="https://github.com/mlpc-ucsd/BLIVA">code</a>
       <p>We introduce BLIVA, an augmented version of InstructBLIP with Visual Assistant. BLIVA incorporates the query embeddings from InstructBLIP and also directly projects encoded patch embeddings into the LLM, a technique inspired by LLaVA. This approach ensures that the model captures intricate details potentially missed during the query decoding process. Empirical evidence demonstrates that our model, BLIVA, significantly enhances performance in processing text-rich VQA benchmarks (up to 17.76% in OCR-VQA benchmark) and in undertaking typical VQA benchmarks (up to 7.9% in Visual Spatial Reasoning benchmark), comparing to our baseline InstructBLIP. BLIVA demonstrates significant capability in decoding real-world images, irrespective of text presence.</p>

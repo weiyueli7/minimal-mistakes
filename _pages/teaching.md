@@ -79,11 +79,11 @@ My responsibilities:
       <img src="../assets/images/dsc80.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>The Practice and Application of Data Science (X2)</h3>
+      <h3>The Practice and Application of Data Science (X3)</h3>
       <br>
       Prof. Tauhidur Rahman, Prof. Suraj Rampure
       <br>
-      <em>UCSD DSC 80  SP23, WI23</em>
+      <em>UCSD DSC 80  WI24, SP23, WI23</em>
       <br>
       
       <a href="../assets/pdfs/evaluations/dsc80_eval.pdf">evaluation</a> / <a href="https://dsc-courses.github.io/dsc80-2023-wi/">website</a>
@@ -163,11 +163,11 @@ My responsibilities:
       <img src="../assets/images/dsc20.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
     </td>
     <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>Programming and Basic Data Structures for Data Science (x3)</h3>
+      <h3>Programming and Basic Data Structures for Data Science (x4)</h3>
       <br>
       Prof. Marina Langlois
       <br>
-      <em>UCSD DSC 20 SP22, WI22, FA21</em>
+      <em>UCSD DSC 20 WI24, SP22, WI22, FA21</em>
       <br>
       
       

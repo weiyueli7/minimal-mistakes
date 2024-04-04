@@ -7,7 +7,7 @@ classes: wide
 
 ## About Me💯
 
-Hello! My name is **Weiyue Li (李威岳)**. I am a fourth-year undergraduate student at the University of California San Diego (UCSD), pursuing triple majors in Data Science (BS), Applied Mathematics (BS), and Economics (BA). I am expected graduate in March 2024.
+Hello! My name is **Weiyue Li (李威岳)**. I am an incoming graduate student in Data Science at Harvard University. I graduated Summa Cum Laude (the highest honor with distinction) from the University of California, San Diego (UCSD) with triple majors in Data Science (BS), Applied Mathematics (BS), and Economics (BA).
 
 I primarily center my research around machine learning and artificial intelligence (AI/ML). I place particular emphasis on <u>large language models</u>, <u>computer vision</u>, and the <u>practical aspects of domain generalization and transfer</u> — especially at their intersections. Leveraging my expertise in machine learning, deep learning, and data analysis, I've made significant contributions to various research and internship projects in the healthcare industry.
 

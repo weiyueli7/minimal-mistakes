@@ -2,23 +2,24 @@
 layout: single
 # title: "MISC"
 permalink: /misc/
-comments: true
-author_profile: true
+comments: false
+author_profile: false
 # classes: wide
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "book"
 toc_sticky: true
 ---
-Outside of academics, my hobbies include working out, playing football🏈 and basketball🏀, hiking🏃, playing PUBG mobile, watching YouTube videos, and more. As I went to high school near Chicago, I am a big Chicago Bears fan! 🐻⬇️
-
-This page serve as a place to keep all random things about me.
 
 <!-- ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc} -->
+
+### To friends at UCSD🔱
+
+Growing up at UCSD, I have met many upperclassmen who have helped me become who I am today. If you are an undergraduate student at UCSD looking for **advice and resources**, please see [here](/advice).
 
 ### Cat learning 🐱
 Meet Emo! Who needs machine learning when my cat is learning? 😭
@@ -135,7 +136,7 @@ There are six memes about her below. Hover your mouse over them (or click on the
 
 
 
-### Drinks for all-nighters 💪
+<!-- ### Drinks for all-nighters 💪
 
 Essential knowledge for college students nowadays...
 
@@ -191,10 +192,10 @@ tr:nth-child(even) {
       <td>Believe it or not, whenever I try to stay up and drink some coffee, it always makes me fall asleep! 😣</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 
-### RMP highlights
+<!-- ### RMP highlights
 
 Recording the most interesting rate my professor reviews I have seen so far:
 
@@ -204,7 +205,7 @@ Recording the most interesting rate my professor reviews I have seen so far:
 
 - "A curve on the exam will make you the best Professor in the world".
 
-  <center><img src="../assets/images/rmp2.png" alt="review image" style="width:70%; height:auto; max-width:100%; max-height:600px" /></center>
+  <center><img src="../assets/images/rmp2.png" alt="review image" style="width:70%; height:auto; max-width:100%; max-height:600px" /></center> -->
 
 
 <!-- ### A silly mistake 🤯

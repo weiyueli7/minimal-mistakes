@@ -11,7 +11,7 @@ toc_icon: "unlock-alt"
 toc_sticky: true
 ---
 
-Having grown up at UCSD, many upperclassmen have shaped my journey. Now, I want to give back by sharing my experiences and guidance. I used to spend countless hours searching past course websites, syllabi, cheatsheets, and other resources at UCSD. To streamline this, I've centralized all my UCSD resources here for anyone seeking similar information. I hope you find my [advice](#advice) and [resources](#resources) useful.
+Having grown up at UCSD, many upperclassmen have shaped my journey. Now, I want to give back by sharing my experiences and guidance. If you are an undergraduate data science student at UCSD looking for advice and resources, please see below.
 
 ## Advice
 
@@ -31,13 +31,13 @@ Now includes [course recommendation](#course-recommendation), [schedule planning
 4. MATH 173A/B with Prof. [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/).
    - I did not take Prof. Saab's offering of the MATH 173 sequence. However, he designed this great sequence, and he is really good at explaining mathematical concepts based on my experience of working with him on a project.
 
-### Schedule Planning
+<!-- ### Schedule Planning
 
 If you are interested in taking classes together, please find my quarter-by-quarter plan below. Please note that this plan is tentative and subject to change. If you would like to discuss potential classes, group projects, or simply connect with me, please do not hesitate to reach out via email, Zoom, or by arranging a meeting at the Geisel Library.
 
 I have been assisting fellow students with schedule planning since my freshman year, and I am happy to help with any questions you may have regarding scheduling if you are in a similar major or from the same college (Warren).
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRs36lkE0JajzcbJCFN3bU_qM6a1fDWlOQh566MBlElvln4P22Uah_3ThOb4U1FZT0w9ZErZuyhZ04z/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="1100" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRs36lkE0JajzcbJCFN3bU_qM6a1fDWlOQh566MBlElvln4P22Uah_3ThOb4U1FZT0w9ZErZuyhZ04z/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="1100" frameborder="0" scrolling="no"></iframe> -->
 
 ### Becoming an IA
 
@@ -45,7 +45,7 @@ Since my freshman year, I have been serving as an Instructional Assistant at UCS
 
 ## Resources
 
-Now includes [links](#links), [cheatsheets](#cheatsheets), and [course websites/syllabi](#course-websitessyllabi).
+Now includes [links](#links) and [cheatsheets](#cheatsheets).
 
 ### Links
 
@@ -64,16 +64,16 @@ I am not particularly good at creating cheatsheets as I tend to be lazy. However
 
 **DSC 80**
 
-This **[cheatsheet](../assets/pdfs/cheatsheet/dsc80_cs.pdf)** was developed by [Xiaoyue](https://dpwxy.github.io/xiaoyuewang15.github.io/). It contains **everything** from the DSC 80 lectures that you need to know to get an A+. If you have a solid background, you could theoretically study the entire course in one day.
+This **[cheatsheet](../assets/pdfs/cheatsheet/dsc80_cs.pdf)** was developed by [Xiaoyue](https://dpwxy.github.io/xiaoyuewang15.github.io/). 
 
 **DSC 102**
 
-This **[cheatsheet](../assets/pdfs/cheatsheet/dsc102_cs.pdf)** was developed by [Xiaoyue](https://dpwxy.github.io/xiaoyuewang15.github.io/) and [Yi](https://jerryli1019.github.io/jerryliyi.github.io/). This has been proven to potentially help you score the second highest in the class without needing to study at all!
+This **[cheatsheet](../assets/pdfs/cheatsheet/dsc102_cs.pdf)** was developed by [Xiaoyue](https://dpwxy.github.io/xiaoyuewang15.github.io/) and [Yi](https://jerryli1019.github.io/jerryliyi.github.io/).
 
 
-### Course Websites/Syllabi
+<!-- ### Course Websites/Syllabi
 
-Available Soon.
+Available Soon. -->
   
 <!-- | Course Name | Instructor         | Website                       |
 | :----:        |    :----:   |          :----: |

@@ -25,6 +25,31 @@ My responsibilities:
 1. TOC
 {:toc} -->
 
+#### Cognitive Science
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+<tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+    <img src="../assets/images/cogs181.png" alt="teaching image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+    <h3> Neural Networks and Deep Learning</h3>
+    <br>
+    Prof. Zhuowen Tu
+    <br>
+    <em>UCSD COGS 181 WI24</em>
+    <br>
+
+     <a href="https://sites.google.com/view/ucsd-cogs-181-winter-2024">website</a>
+
+    <p></p>
+    <p>This course will cover the basics about neural networks, as well as recent developments in deep learning including deep belief nets, convolutional neural networks, recurrent neural networks, long-short term memory, and reinforcement learning. We will study details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification.</p>
+
+    </td>
+</tr>
+</table>
+
 #### Computer Science and Engineering
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">

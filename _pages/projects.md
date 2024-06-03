@@ -1,7 +1,7 @@
 ---
 layout: single
 # title: "Research"
-permalink: /research/
+permalink: /projects/
 comments: true
 author_profile: true
 # classes: wide
@@ -11,7 +11,7 @@ toc_icon: "book"
 toc_sticky: true
 ---
 
-This page is still under construction. More unpublished/ongoing content will be added soon!
+<!-- This page is still under construction. More unpublished/ongoing content will be added soon! -->
 
 
 ## Research
@@ -38,6 +38,37 @@ This page is still under construction. More unpublished/ongoing content will be 
 ### AI/ML
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/son.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>SON: Enhancing Prompt Understanding of Diffusion Models with Large Language Models Guided Layouts</h3>
+      <strong>Weiyue Li</strong>, Yi Li, Xiaoyue Wang, Hao Zhang
+      <br>
+      <i>2024 Outstanding Capstone Project Award</i>
+      <br>
+      <a href="https://weiyueli7.github.io/SON/">website</a>  / <a href="https://weiyueli7.github.io/SON/report/report.pdf">report</a> / <a href="https://github.com/weiyueli7/SON">code</a>
+      <p>We introduce Spatial-Overlap-Numeracy-1K (SON-1K), a comprehensive benchmark for text-to-image generation. This benchmark comprises 1,000 complex prompts spanning three subtasks: spatial relationships, numeracy counts, and complex natural prompts. Alongside the benchmark, we propose several evaluation metrics to assess compliance with the prompts comprehensively. We also propose a new approach, the Language Model-Guided Diffusion++ (LMDpp), enhancing the performance of the novel two-stage Large Language Model (LLM)-grounded diffusion model pipeline (LMD).</p>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/lmb.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>Training Language Models on a Computational Budget</h3>
+      <strong>Weiyue Li</strong>, Yi Li, Xiaoyue Wang
+      <br>
+      <a href="https://production-gradescope-uploads.s3-us-west-2.amazonaws.com/uploads/pdf_attachment/file/133727156/DSC_Capstone_Q1_Project_B17_Team_2.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAV45MPIOW3IUXOA56%2F20240603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240603T141228Z&X-Amz-Expires=10800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAQaCXVzLXdlc3QtMiJIMEYCIQDGxPao18dpt1vRldHxs%2Fo49wGCGsZDI%2FMy3xxY4nuH1QIhAK0i8M7gsSw9u%2B%2BHyOgIL8mD%2BQ0ghWMkuj8VxNY2cxDiKsMFCI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDA1Njk5MjQ5MDY5Igz46P2IVxtDfiv9trsqlwXD0CbM2%2B1c8sUrzsO7DVyijZrR0pP%2BjdPmcPEYIPIHIXetlIJVm1rP6EjXVv7qqoobeIGD02o%2BmFNOPwHXrjK9jILEMGPA%2FYich9r8G%2FA65Z1YnX2aGKiAsJcrhIRY0kPMROCCYiNMrYuMG%2FhqVL48RbN7lhTNr%2BAUrQ7CgFMaKyPckjq1rZgQlrGl7Og%2FAfpPygRLYQL8gUpgwvgXswvyxi4kkScCw353rVWWyXz6vBGUO%2FwddSS87l%2FgbwKpWo6ky2G%2FUIOY1%2FkjorxvCsPuikwlBVpRwR78Xbg1jjTvU%2FqyNEcf3zuDVwhdPj3cacoFraSPfDwUf6pFFG%2F0DcCf8IDfvpfMu0vgGUo5thcf9mP9L7b0lva7RwPZb82YVXFTE4iEkplq2cVL38zq4D85jhMVsz6o21%2FCawwmnm6diIf7bSQypCaj2gD%2F8h98aY9CTB%2Bq5u1bwwUncEQ7AYi7F6%2FnYazEPpvRAFp4OlxmgGJB7wiTA1yh6JK52AuWYbDdPHE93AB2GHPOqyjhEWCXTMp7v1dDeNLp4%2FEEdwhT7MZbM4w6OXWjfaGm8tCG7ymPrfXfiRkqpuPcRxiWzYSktMyMRId36dYJf2qK%2FIfrjFGuFmvNIjLstYjNwhKlOKfMiOl7UK982sMA97PxouPV5noFJiDOrZtesYDH3PVa0tCkb8X2dXz50UXPStgxJThY1lGSPzYYSRggnPU6Qor652IWX29xJJcboVhd0Q2b83%2Fiw%2FmmcQ3ENKHum%2BpmwMPErsng5j7q4LaDZHVS2ziJCUgmZTgBrs5r7RPGUBgM5%2FJd9poxpWmyHVJ9hk%2F6sp%2FuGk%2BEWnnOGHAP7wgPgB2ckghveQyYUgOyihf%2BUFSLcGi1vyeakVAw5t32sgY6sAGrFZyFbY70Ts%2FU8RZA7btXlMdKU79NBbg9B4VkeIz2BohwT2Jz%2BNgPZdTOeRvj73XVh4urbfXjVestrReTPyU7zvxs6IMKNmg4eAVS64awOp7QNjKqgSNYn3PZnyNyvOezQXiMEZ0jlbyrjwAYQo%2BTVSucX2i0cGYtXtKTU0Z5jJJzpslDLxvVx12zHIksr6%2BiA%2F%2BaJSTksGqsHJxb2T7lcijk%2Fr8FfDzmjCfGKA2eqQ%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=9387eebe00fef6e04ccdab5810a0ab777e4dc03b16eac5d7cc42b64ec7fcdc0e">report</a> / <a href="https://github.com/weiyueli7/LM-With-Budgets">code</a>
+      <p>We introduce a technical report that outlines our methodology for calculating model parameters, training FLOPs (floating-point operations), and memory costs. Based on these calculations and adhering to the Chinchilla scaling law, we design three model configurations—large, medium, and small—to align with our computed computational budget. All models are trained using the SlimPajama-6B benchmark on eight NVIDIA A6000 48GB GPUs. We achieve cross-entropy losses for each model size: 2.339 for large, 2.165 for medium, and 2.091 for small. Lastly, we conduct an inference task using our most effective model.</p>
+    </td>
+  </tr>
+
+
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
       <img src="../assets/images/projects/cdcgans.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
@@ -87,7 +118,7 @@ This page is still under construction. More unpublished/ongoing content will be 
     </td>
   </tr>
 
-  <tr>
+  <!-- <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
       <img src="../assets/images/projects/mlp.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
     </td>
@@ -112,7 +143,7 @@ This page is still under construction. More unpublished/ongoing content will be 
       <a href="https://github.com/weiyueli7/Singular-Value-Decomposition-CV/blob/master/doc/report.pdf">report</a> / <a href="https://github.com/weiyueli7/Singular-Value-Decomposition-CV">code</a>
       <p>We implemented Logistic Regression with Stochastic Gradient Descent to classify Japanese Hiragana hand writings from the KMNIST dataset. We then used Singular Value Decomposition to reduce the size of images for the goals of decreasing memory allocations and hopefully increasing the performance of the model. After applying Singular Value Decomposition, we were able to achieve 99% of testing accuracy on classifying お and ま with 40% less memory allocation on the original images as well as around 87% of testing accuracy on classifying す and ま with 40% less memory allocation on the original images.</p>
     </td>
-  </tr>
+  </tr> -->
 
 
 </table>
@@ -157,6 +188,20 @@ This page is still under construction. More unpublished/ongoing content will be 
 ### Econometrics
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="../assets/images/projects/nba-3.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>NBA Player Salaries: Are 3-Pointers Making Differences?</h3>
+      <strong>Weiyue Li</strong>
+      <br>
+      <a href="https://drive.google.com/file/d/1ouZCRIaW8HBbZZYXZMr7zMde1ukE4BT5/view">report</a> / <a href="https://github.com/weiyueli7/NBA-3Pointers">code</a>
+      <p>This project examines the influence of 3-point shooting abilities on NBA players' salaries. We delve into whether excelling in 3-pointers correlates with higher salaries, considering various factors and statistical models.</p>
+    </td>
+  </tr>
+
   <tr>
     <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
       <img src="../assets/images/projects/wage-gap.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />

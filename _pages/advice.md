@@ -68,7 +68,7 @@ This **[cheatsheet](../assets/pdfs/cheatsheet/dsc80_cs.pdf)** was developed by [
 
 **DSC 102**
 
-This **[cheatsheet](../assets/pdfs/cheatsheet/dsc102_cs.pdf)** was developed by [Xiaoyue](https://dpwxy.github.io/xiaoyuewang15.github.io/) and [Yi](https://jerryli1019.github.io/jerryliyi.github.io/).
+This **[cheatsheet](../assets/pdfs/cheatsheet/dsc102_cs.pdf)** was developed by [Xiaoyue](https://dpwxy.github.io/xiaoyuewang15.github.io/) and [Yi](https://jerryli1019.github.io/).
 
 
 <!-- ### Course Websites/Syllabi

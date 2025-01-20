@@ -26,7 +26,8 @@ Meet Emo! Who needs machine learning when my cat is learning? 😭
 
 <center><iframe width="560" height="315" src="https://drive.google.com/file/d/1Vguu5bmrp7AQxxrX-nQrOO8CwFWdg4xD/preview" title="CatLearning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-There are six memes about her below. Hover your mouse over them (or click on them if you are on your phone) to see. Feel free to follow [her Instagram](https://www.instagram.com/emo_caviar/) for more!
+There are six memes about her below. Hover your mouse over them (or click on them if you are on your phone) to see. 
+<!-- Feel free to follow [her Instagram](https://www.instagram.com/emo_caviar/) for more! -->
 
 <style>
     .grid-container {

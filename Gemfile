@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-# gem "github-pages", group: :jekyll_plugins  # comment out when running locally
-# gem "jekyll-include-cache", group: :jekyll_plugins # comment out when running locally
+gem "github-pages", group: :jekyll_plugins  # comment out when running locally
+gem "jekyll-include-cache", group: :jekyll_plugins # comment out when running locally
 
 group :jekyll_plugins do
     gem "jekyll-feed"
